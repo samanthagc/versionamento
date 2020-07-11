@@ -1,5 +1,6 @@
 Comprimento comum no Brasil:
 
+<<<<<<< HEAD
 "Oi, tudo bem?"
 
 Para continuar a conversa, é comum responder:
@@ -9,3 +10,6 @@ Para continuar a conversa, é comum responder:
 ou
 
 "Não estou muito bem, mas e você como está?"
+=======
+Olá, tudo bem?
+>>>>>>> 85de49c... Torna comprimento formal
