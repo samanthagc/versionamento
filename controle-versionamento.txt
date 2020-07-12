@@ -1,11 +1,11 @@
 Comprimento comum no Brasil, com saldação:
 
-"Olá, bom dia! Tudo bem?"
+   "Olá, bom dia! Tudo bem?"
 
 Para continuar a conversa, é comum responder:
 
-"Estou bem e você, como está?"
+   "Estou bem e você, como está?"
 
-ou
+                 ou
 
-"Não estou muito bem, mas e você como está?"
+   "Não estou muito bem, mas e você como está?"
