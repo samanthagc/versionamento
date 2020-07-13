@@ -1,7 +1,7 @@
 CONVERSAÇÃO  BR
 by Samantha
 
-Comprimento comum no Brasil, com saldação:
+Comprimento comum no Brasil, com saudação:
 
    "Olá, bom dia! Tudo bem?"
 
@@ -12,3 +12,18 @@ Para continuar a conversa, é comum responder:
                  ou
 
    "Não estou muito bem, mas e você como está?"
+
+ING CONVERSATION
+by Samantha
+
+Common length in the USA, with salutation:
+
+    "Hello, good morning. How are you?"
+
+To continue the conversation, it is common to answer:
+
+    "IM fine and how are you?"
+
+                  or
+
+    "I'm not doing very well, but how are you?"
